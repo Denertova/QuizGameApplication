@@ -1,0 +1,25 @@
+{
+  "difficulty": "Easy",
+  "title": "Easy Matching Questions Quiz",
+  "category": "Matching Question",
+  "prompt": "Match the country with its capital:",
+  "interactions": [
+    {
+      "pairs": [
+        {
+          "left": "France",
+          "right": "Paris"
+        },
+        {
+          "left": "Germany",
+          "right": "Berlin"
+        },
+        {
+          "left": "Italy",
+          "right": "Rome"
+        }
+      ]
+    }
+
+  ]
+}

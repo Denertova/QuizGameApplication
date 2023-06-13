@@ -1,0 +1,24 @@
+{
+  "difficulty": "Hard",
+  "title": "Hard Matching Questions Quiz",
+  "category": "Matching Question",
+  "prompt": "Match the author with their famous novel:",
+  "interactions": [
+    {
+      "pairs": [
+        {
+          "left": "Jane Austen",
+          "right": "Pride and Prejudice"
+        },
+        {
+          "left": "Fyodor Dostoevsky",
+          "right": "Crime and Punishment"
+        },
+        {
+          "left": "Gabriel Garcia Marquez",
+          "right": "One Hundred Years of Solitude"
+        }
+      ]
+    }
+  ]
+}

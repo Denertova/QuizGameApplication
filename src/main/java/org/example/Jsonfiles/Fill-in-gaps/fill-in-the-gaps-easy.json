@@ -1,0 +1,17 @@
+{
+  "difficulty": "easy",
+  "title": "Easy Fill-in-the-Gaps Quiz",
+  "category": "Fill-in Gaps",
+  "stimulus": "Complete the following sentence: The capital of France is ______.",
+  "prompt": "The capital of France is ______.",
+  "interactions": [
+    {
+      "placeholder": "______",
+      "category": "text-entry",
+      "answers": ["Paris"]
+    }
+  ],
+  "answers": [
+    ["Paris"]
+  ]
+}

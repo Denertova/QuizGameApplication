@@ -1,0 +1,14 @@
+{
+  "difficulty": "Medium",
+  "title": "Medium Open Ended Question",
+  "interactions": [
+    {
+      "question": "Explain the process of photosynthesis.",
+      "answer": ""
+    },
+    {
+      "question": "What is the formula for calculating the area of a circle?",
+      "answer": ""
+    }
+  ]
+}

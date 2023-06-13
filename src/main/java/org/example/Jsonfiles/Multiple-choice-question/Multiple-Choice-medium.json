@@ -1,0 +1,15 @@
+{
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "question": "Which year was the first iPhone released?",
+      "options": ["2005", "2006", "2007", "2008"],
+      "answer": "2007"
+    },
+    {
+      "question": "Who is the author of the Harry Potter book series?",
+      "options": ["J.R.R. Tolkien", "J.K. Rowling", "Stephen King", "George R.R. Martin"],
+      "answer": "J.K. Rowling"
+    }
+  ]
+}

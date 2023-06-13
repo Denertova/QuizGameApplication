@@ -1,0 +1,14 @@
+{
+  "difficulty": "Hard",
+  "title": "Hard Open Ended Question",
+  "interactions": [
+    {
+      "question": "Describe the concept of quantum entanglement.",
+      "answer": ""
+    },
+    {
+      "question": "What are the main principles of the theory of relativity?",
+      "answer": ""
+    }
+  ]
+}

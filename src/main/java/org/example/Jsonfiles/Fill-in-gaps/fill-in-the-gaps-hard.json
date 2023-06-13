@@ -1,0 +1,17 @@
+{
+  "difficulty": "hard",
+  "title": "Hard Fill-in the Gaps Quiz",
+  "category": "Fill-in Gaps",
+  "stimulus": "Complete the following sentence: The speed of light in a vacuum is approximately ______ meters per second.",
+  "prompt": "The speed of light in a vacuum is approximately ______ meters per second.",
+  "interactions": [
+    {
+      "placeholder": "______",
+      "category": "text-entry",
+      "answers": ["299,792,458"]
+    }
+  ],
+  "answers": [
+    ["299,792,458"]
+  ]
+}

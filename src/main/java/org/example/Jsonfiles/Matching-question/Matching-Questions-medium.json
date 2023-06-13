@@ -1,0 +1,27 @@
+{
+  "difficulty": "Medium",
+  "title": "Medium Matching Questions Quiz",
+  "category": "Matching Question",
+  "prompt": "Match the programming language with its paradigm:",
+  "interactions": [
+    {
+      "pairs": [
+        {
+          "left": "Java",
+          "right": "Object-oriented"
+        },
+        {
+          "left": "Python",
+          "right": "Multiparadigm"
+        },
+        {
+          "left": "Haskell",
+          "right": "Functional"
+        }
+      ]
+    }
+  ]
+}
+
+
+

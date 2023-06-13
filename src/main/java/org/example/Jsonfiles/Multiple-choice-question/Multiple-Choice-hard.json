@@ -1,0 +1,15 @@
+{
+  "difficulty": "Hard",
+  "questions": [
+    {
+      "question": "Which scientist developed the theory of general relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "Which artist painted the Mona Lisa?",
+      "options": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Michelangelo"],
+      "answer": "Leonardo da Vinci"
+    }
+  ]
+}

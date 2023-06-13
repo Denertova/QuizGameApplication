@@ -1,0 +1,17 @@
+{
+  "difficulty": "medium",
+  "title": "Medium Fill-in-the-Gaps Quiz",
+  "category": "Fill-in Gaps",
+  "stimulus": "Complete the following sentence: The largest planet in our solar system is ______.",
+  "prompt": "The largest planet in our solar system is ______.",
+  "interactions": [
+    {
+      "placeholder": "___1___",
+      "category": "text-entry",
+      "answers": ["Jupiter"]
+    }
+  ],
+  "answers": [
+    ["Jupiter"]
+  ]
+}

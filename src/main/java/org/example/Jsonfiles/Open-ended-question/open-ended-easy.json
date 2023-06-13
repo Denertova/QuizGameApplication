@@ -1,0 +1,15 @@
+{
+  "difficulty": "Easy",
+  "title": "Easy Open Ended Question",
+  "category": "Open Ended",
+  "interactions": [
+    {
+      "question": "Name three primary colors.",
+      "answer": ""
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "answer": ""
+    }
+  ]
+}
