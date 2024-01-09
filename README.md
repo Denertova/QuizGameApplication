@@ -17,7 +17,7 @@ To run this project, you must have the following tools installed:
 1. clone this project to your device.
 2. open a terminal and navigate to the root directory of the project.
 3. execute the `mvn clean install` command to build the project and download the dependencies.
-4. execute the `mvn exec:java` command to run the application.
+4. run the application.
 
 ## Author
 
